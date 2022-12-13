@@ -1,4 +1,5 @@
-# OsintTools_Resources : Open-source intelligence (OSINT) is the process of gathering intelligence from publicly available sources, such as news websites, blogs, and social media. OSINT is used to identify and collect relevant data from online sources. It is a valuable tool for intelligence and security agencies, as well as businesses, to gain insight into potential threats, competitors, and emerging trends.
+# OsintTools_Resources : 
+Open-source intelligence (OSINT) is the process of gathering intelligence from publicly available sources, such as news websites, blogs, and social media. OSINT is used to identify and collect relevant data from online sources. It is a valuable tool for intelligence and security agencies, as well as businesses, to gain insight into potential threats, competitors, and emerging trends.
 
 Tools and references for OSINT are available to help users collect, analyze, and interpret the data. These tools can provide users with the ability to quickly search and gather data from multiple sources, such as websites, databases, and social media profiles. Additionally, these tools can allow users to collect data in real-time and to visualize the results in graphs and charts.
 
